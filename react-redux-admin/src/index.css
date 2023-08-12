@@ -1,0 +1,28 @@
+.dataTables_filter {
+  display: none;
+}
+
+.card-table {
+  padding: 20px;
+}
+
+.dataTables_length select {
+  padding: 3px 5px;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.dataTables_paginate {
+  display: flex;
+  gap: 10px;
+  position: absolute;
+  bottom: 38px;
+  right: 30px;
+}
+
+.page-header .header-part {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}

@@ -1,0 +1,11 @@
+ecom-api/node_modules
+ecom-api/.env
+ecom-api/package-lock.json
+
+react-redux-admin/node_modules
+react-redux-admin/admin
+react-redux-admin/package-lock.json
+
+shop/node_modules
+shop/shop
+shop/package-lock.json
